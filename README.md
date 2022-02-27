@@ -4,6 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nan980914&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 - 👉 Read more about my [Blog](https://nanxi.life/)
+- 💕 vlogger [Vlog](https://space.bilibili.com/294636307)
 - ✉️ Ping me by [Email](mailto:nanxixi98@163.com)
 - 👦 My Boy: [hua1995116](https://github.com/hua1995116)
 - 🥰 Make friends with me in [微博](https://weibo.com/u/5935317866)
